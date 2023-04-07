@@ -2,7 +2,7 @@
 name = "pipelines"
 version = "0.1.0"
 description = ""
-authors = ["Ksenya <snegurka64@mail.ru>"]
+authors = ["Ilya <Esin54321@yandex.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
